@@ -1,0 +1,4 @@
+glob2
+numpy
+opencv-python
+face-recognition
